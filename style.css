@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+    width: 960px;
+    height: 978px;
+}
+
+header {
+    margin: 0px 0px 25px 0px;
+}
+
+nav a {
+    font-size: 24px;
+    color: #000;
+    margin: 25px 105px 90px 0px;
+}
+
+nav, p {
+    text-align: center;
+}
+
+h1 {
+    font-size: 64px;
+    text-align: center;
+    margin: 90px 0px 70px 0px;
+}
+
+p img {
+    border-left: 10px dotted black;
+    padding: 5px;
+    margin: 0px 75px 0px 0px;
+}
+
+.text {
+    font-size: 24px;
+    border: 1px solid #000;
+    border-radius: 30px;
+    padding: 20px;
+    text-align: left;
+    margin: 55px 70px 55px 75px;
+}
+
+.kartinka {
+    margin-left: 120px;
+}
+
+.posklad {
+    margin-left: 165px;
+}
+
+footer {
+    width: 960px;
+    height: 128px;
+    background: #000;
+    padding-top: 10px;
+}
+
+footer p {
+    font-size: 24px;
+    color: #000;
+    background-color: white;
+    text-align: left;
+    padding: 5px 0px 5px 10px;
+    margin: 15px;
+}
